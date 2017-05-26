@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $(".whatsup").click(whatsupClicked);
+$(".whatsup").click(whatsupClicked);
 function whatsupClicked()
  {
   $(".myNumber").fadeToggle();

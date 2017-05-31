@@ -11,13 +11,12 @@ body,html{
   background-position: center center;
   background-repeat: no-repeat;
   display: table;
-  margin-top: -20px;
   color: white;
   text-shadow: -1px 0px 5px #000000;
   filter: brightness(100%);
 }
 .roundImage{
-  margin-top: 50px;
+  margin-top: 100px;
 }
 .vijendiran{
   font-size:35px;

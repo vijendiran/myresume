@@ -152,15 +152,20 @@ font-family: 'Roboto', sans-serif;
   margin-left: auto;
   margin-right: auto;
 }
-.myDetails,.works-head{
-  display: block;
-  background-color: black;
+.myDetails{
   color: white;
-  padding:15px 0;
   margin: 0;
+  padding: 10px 0;
   text-align: center;
   font-family: 'Roboto', sans-serif;
-  border-top: 1px solid  #666666;
+}
+#works-head{
+  color: white;
+  background-color: black;
+  text-align: center;
+  padding:10px 0;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
 }
 
 /*Myworks*/

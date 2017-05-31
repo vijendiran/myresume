@@ -163,8 +163,9 @@ font-family: 'Roboto', sans-serif;
   font-family: 'Roboto', sans-serif;
   border-top: 1px solid  #666666;
 }
+
 /*Myworks*/
-#movieCritic-works{
+#phpmovieapp-works{
   background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.92), rgba(0, 0, 0, 0.4)), url(./images/work2.png);
   background: -moz-linear-gradient(top, rgba(0, 0, 0, 0.92), rgba(0, 0, 0, 0.4)), url(./images/work2.png);
   height:400px;
@@ -179,46 +180,41 @@ font-family: 'Roboto', sans-serif;
 .pixelBowl-work{
   background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.92), rgba(0, 0, 0, 0.4)), url(./images/work3.png);
   background: -moz-linear-gradient(top, rgba(0, 0, 0, 0.92), rgba(0, 0, 0, 0.4)), url(./images/work3.png);
-
-     height: 400px;
-     width: 100%;
-     background-size: 100% auto;
-     background-position:center center;
-     background-repeat: no-repeat;
-     display: table;
-     text-shadow: 0px 1px 15px rgba(4, 4, 4, 0.89);
-     border-top: 1px solid  #666666;
-     border-bottom:  1px solid  #666666;
+  height: 400px;
+  width: 100%;
+  background-size: 100% auto;
+  background-position:center center;
+  background-repeat: no-repeat;
+  display: table;
+  text-shadow: 0px 1px 15px rgba(4, 4, 4, 0.89);
+  border-top: 1px solid  #666666;
+  border-bottom:  1px solid  #666666;
 }
 .MyPortfolio-work{
   background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.92), rgba(0, 0, 0, 0.4)), url(./images/work4.png);
   background: -moz-linear-gradient(top, rgba(0, 0, 0, 0.92), rgba(0, 0, 0, 0.4)), url(./images/work4.png);
-
-     height: 400px;
-     width: 100%;
-     background-size: 100% auto;
-     background-position:center center;
-     background-repeat: no-repeat;
-     display: table;
-     text-shadow: 0px 1px 15px rgba(4, 4, 4, 0.89);
-     border-top: 1px solid  #666666;
-     border-bottom:  1px solid  #666666;
-
+  height: 400px;
+  width: 100%;
+  background-size: 100% auto;
+  background-position:center center;
+  background-repeat: no-repeat;
+  display: table;
+  text-shadow: 0px 1px 15px rgba(4, 4, 4, 0.89);
+  border-top: 1px solid  #666666;
+  border-bottom:  1px solid  #666666;
 }
 .JqueryApp-work{
   background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.92), rgba(0, 0, 0, 0.4)), url(./images/work5.png);
   background: -moz-linear-gradient(top, rgba(0, 0, 0, 0.92), rgba(0, 0, 0, 0.4)), url(./images/work5.png);
-
-     height: 400px;
-     width: 100%;
-     background-size: 100% auto;
-     background-position:center center;
-     background-repeat: no-repeat;
-     display: table;
-     text-shadow: 0px 1px 15px rgba(4, 4, 4, 0.89);
-     border-top: 1px solid  #666666;
-     border-bottom:  1px solid  #666666;
-
+  height: 400px;
+  width: 100%;
+  background-size: 100% auto;
+  background-position:center center;
+  background-repeat: no-repeat;
+  display: table;
+  text-shadow: 0px 1px 15px rgba(4, 4, 4, 0.89);
+  border-top: 1px solid  #666666;
+  border-bottom:  1px solid  #666666;
 }
 .web-btn{
   padding:10px 20px;
@@ -230,7 +226,6 @@ font-family: 'Roboto', sans-serif;
   color: black;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
   font-family: 'Roboto', sans-serif;
-
 }
 .web-btn:hover{
   background-color: white;

@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css?family=Droid+Sans:700|Play:700|Roboto|Roboto+Condensed" rel="stylesheet">
-  <body>
+  <body data-spy="scroll" data-target=".navbar" data-offset="50">
     <!-- •••••••••••••••••••••• -->
     <!-- Navigation -->
     <!-- •••••••••••••••••••••• -->
@@ -25,9 +25,9 @@
         </div>
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="#">Home</a></li>
-            <li><a href="#resume">Resume</a></li>
-            <li><a href="#works-head">Works</a></li>
+            <li class="active" data-toggle="collapse" data-target=".in"><a href="#">Home</a></li>
+            <li data-toggle="collapse" data-target=".in"><a href="#resume">Resume</a></li>
+            <li data-toggle="collapse" data-target=".in"><a href="#works-head">Works</a></li>
           </ul>
         </div>
       </div>
@@ -185,7 +185,7 @@
       <!-- projectDetails -->
       <div>
         <h2>Achivements</h2>
-        <p>I was president for Renewed Association Computer Science and Engineering during college days</p>
+        <p>I was president for Renowned Association Computer Science and Engineering during college days</p>
         <p>I was Co-ordinator for Blood and Eye Camp during my college days</p>
       </div>
       <!-- achievements -->
@@ -295,7 +295,7 @@
     <a href="#" id="back-to-top" title="Back to top">&uarr;</a>
   </footer>
   </body>
-  <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <script src="portfolio.js"></script>
 </html>

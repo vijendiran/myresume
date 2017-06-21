@@ -22,7 +22,7 @@ if ($('#back-to-top').length) {
         e.preventDefault();
         $('html,body').animate({
             scrollTop: 0
-        }, 2500);
+        }, 2000);
     });
 }
 $("#navbar li a").click(function(event) {

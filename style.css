@@ -4,8 +4,8 @@ body,html{
   height: 100%;
 }
 .bannerImage{
-  background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.24)), url('./images/bg1.jpeg');
-  background:-moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.24)), url('./images/bg1.jpeg');
+  background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.24)), url('./Images/bg1.jpeg');
+  background:-moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.24)), url('./Images/bg1.jpeg');
   height:100%;
   background-size: cover;
   background-position: center center;
@@ -170,8 +170,8 @@ font-family: 'Roboto', sans-serif;
 
 /*Myworks*/
 #phpmovieapp-works{
-  background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.92), rgba(0, 0, 0, 0.4)), url(./images/work2.png);
-  background: -moz-linear-gradient(top, rgba(0, 0, 0, 0.92), rgba(0, 0, 0, 0.4)), url(./images/work2.png);
+  background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.92), rgba(0, 0, 0, 0.4)), url(./Images/work2.png);
+  background: -moz-linear-gradient(top, rgba(0, 0, 0, 0.92), rgba(0, 0, 0, 0.4)), url(./Images/work2.png);
   height:400px;
   width: 100%;
   background-size: 100% auto;
@@ -182,8 +182,8 @@ font-family: 'Roboto', sans-serif;
   border-bottom:  1px solid  #666666;
 }
 .pixelBowl-work{
-  background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.92), rgba(0, 0, 0, 0.4)), url(./images/work3.png);
-  background: -moz-linear-gradient(top, rgba(0, 0, 0, 0.92), rgba(0, 0, 0, 0.4)), url(./images/work3.png);
+  background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.92), rgba(0, 0, 0, 0.4)), url(./Images/work3.png);
+  background: -moz-linear-gradient(top, rgba(0, 0, 0, 0.92), rgba(0, 0, 0, 0.4)), url(./Images/work3.png);
   height: 400px;
   width: 100%;
   background-size: 100% auto;
@@ -195,8 +195,8 @@ font-family: 'Roboto', sans-serif;
   border-bottom:  1px solid  #666666;
 }
 .MyPortfolio-work{
-  background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.92), rgba(0, 0, 0, 0.4)), url(./images/work4.png);
-  background: -moz-linear-gradient(top, rgba(0, 0, 0, 0.92), rgba(0, 0, 0, 0.4)), url(./images/work4.png);
+  background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.92), rgba(0, 0, 0, 0.4)), url(./Images/work4.png);
+  background: -moz-linear-gradient(top, rgba(0, 0, 0, 0.92), rgba(0, 0, 0, 0.4)), url(./Images/work4.png);
   height: 400px;
   width: 100%;
   background-size: 100% auto;
@@ -208,8 +208,8 @@ font-family: 'Roboto', sans-serif;
   border-bottom:  1px solid  #666666;
 }
 .JqueryApp-work{
-  background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.92), rgba(0, 0, 0, 0.4)), url(./images/work5.png);
-  background: -moz-linear-gradient(top, rgba(0, 0, 0, 0.92), rgba(0, 0, 0, 0.4)), url(./images/work5.png);
+  background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.92), rgba(0, 0, 0, 0.4)), url(./Images/work5.png);
+  background: -moz-linear-gradient(top, rgba(0, 0, 0, 0.92), rgba(0, 0, 0, 0.4)), url(./Images/work5.png);
   height: 400px;
   width: 100%;
   background-size: 100% auto;

@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My portfolio</title>
-    <link rel="icon" href="./images/icon.png">
+    <link rel="icon" href="./Images/icon.png">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css?family=Droid+Sans:700|Play:700|Roboto|Roboto+Condensed" rel="stylesheet">
@@ -41,7 +41,7 @@
       <!-- RoundImage -->
       <!-- •••••••••••••••••••••• -->
       <div class="roundImage">
-        <center><img src="./images/oilpaint.png"  class="img-responsive" width="180" height="180"alt=""></center>
+        <center><img src="./Images/oilpaint.png"  class="img-responsive" width="180" height="180"alt=""></center>
       </div>
       <!-- RoundImage -->
       <!-- •••••••••••••••••••••• -->
@@ -66,10 +66,10 @@
         <!-- socialMedia -->
         <!-- •••••••••••••••••••••• -->
           <div class="social-media">
-            <a href="mailto:vijendiran95@gmail.com" target="_top"><img src="./images/mail.png" target="_blank"alt="" class="mail"></a>
-            <a href="https://www.linkedin.com/in/vijendiran-vijay-656439141" target="_blank"><img src="./images/linkedin.png" alt="" class="linkedin"></a>
-            <a href="https://github.com/vijendiran" target="_blank"><img src="./images/git.png" alt="" class="git"></a>
-            <img src="./images/whatsup.png" alt="" class="whatsup">
+            <a href="mailto:vijendiran95@gmail.com" target="_top"><img src="./Images/mail.png" target="_blank"alt="" class="mail"></a>
+            <a href="https://www.linkedin.com/in/vijendiran-vijay-656439141" target="_blank"><img src="./Images/linkedin.png" alt="" class="linkedin"></a>
+            <a href="https://github.com/vijendiran" target="_blank"><img src="./Images/git.png" alt="" class="git"></a>
+            <img src="./Images/whatsup.png" alt="" class="whatsup">
             <h5 class="myNumber">+91-81227-28445</h5>
         </div>
         <!-- socialMedia -->
